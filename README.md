@@ -1,3 +1,3 @@
 # gee
 
-Este repositório tem por objetivo o compartilhamento de códigos gerados em nuvem do Google Earth Engine
+Este repositório tem por objetivo o compartilhamento de códigos pessoais gerados em nuvem Google Earth Engine
